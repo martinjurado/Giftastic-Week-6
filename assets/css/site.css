@@ -1,0 +1,52 @@
+.container {
+    background-color: white;
+    margin: 6% 10% 0 10%;
+    padding-bottom: 25%;
+}
+
+.button-container {
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+.logo {
+    
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.search-button {
+    margin-top: 3%;
+    margin-left: 37%;
+}
+
+
+.gif-container {
+    padding-top: 3%;
+    padding-left: 3%;
+    width: 75%;
+}
+
+.nickGif {
+
+    float:right;
+    margin: 5px;
+}
+
+.nick-container{
+
+    float: right;
+    max-width: 400px;
+}
+
+.description {
+    display: block;
+    margin-left: 46%;
+    margin-right: auto;
+    width: 50%;
+}

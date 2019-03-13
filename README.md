@@ -9,7 +9,7 @@ The Giftastic application shows user multiple tabs of Nick shows prompting diffe
 - JQuery
 - AJAX (3rd Party API: GIPHY API)
 
-![](nick.png)
+
 
 ## Link
 - Link to App (https://martinjurado.github.io/Giftastic-Week-6/)
